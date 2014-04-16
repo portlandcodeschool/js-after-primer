@@ -18,7 +18,7 @@ Work in code at least 30 mins consecutively each day, at least six days a week (
 
 Go to meetups! See below.
 
-Finally, Have fun! Did I mention that this should be fun? 
+Finally, Have fun!
 
 ### Sites
 - [MDN, Mozilla Developer Network](https://developer.mozilla.org/en-US/)
