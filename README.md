@@ -12,7 +12,7 @@ Remember to come back and review basic concepts. You are a human and you will fo
 
 Studying Javascript well requires a graduate-school-level of commitment. You should start thinking of yourself as a Javascript scholar and begin to put in the study time that reflects that.
 
-Learning by doing is even more important than being a scholar of Javascript (but you will still have to study ;-p ).Find projects that will help you learn. Find a project that must be completed and one that must actually work. This goal will help you solve problems like nothing else can. 
+Learning by doing is even more important than being a scholar of Javascript (but you will still have to study ;-p ).Find projects that will help you learn. Find a project that must be completed and one that must actually work. This goal will help you solve problems like nothing else can. Keep using git and put these projects up on github. Practice making many commits and keeping your commits related to each feature.
 
 Work in code at least 30 mins consecutively each day, at least six days a week (preferably more time each day). The more days you are away from code, the longer it takes to get back into it. You need at least 30 mins to get into one bit of code and effectively deal with it or learn about it. 
 
