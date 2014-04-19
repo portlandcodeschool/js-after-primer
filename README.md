@@ -65,3 +65,15 @@ Finally, Have fun!
     + Go to the meetup even if you are intimidated
     + Beginners are welcome at meetups
     + Utelize the support, encouragement and enthusiasm that you gain by going to the meetups. People are there for fun and to give back to the community.
+
+### More Git
+- Advice: Start pushing your work up to github every time you work (assuming it is non-proprietary and can be shared with the public, such as a website for a client)
+- More Advice: Learn new git commands when you encounter a problem. You probably won't be able to memorize all git commands. 
+- [git-tower learn git: free ebook](http://www.git-tower.com/learn/ebook/command-line/introduction)
+    + Very accessible ebook
+    + free!
+- [pro git](http://git-scm.com/book)
+    + More detailed, low-level 
+    + free!
+- [codeschool try git](http://try.github.io/levels/1/challenges/1)
+- [codeschool.com git real](https://www.codeschool.com/courses/git-real)
